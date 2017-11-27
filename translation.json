@@ -1,0 +1,18 @@
+{
+  "languages": [
+    {
+      "languageCode": "nb",
+      "entries": {
+        "push_new_message_title": "* skrev en ny melding",
+        "push_video_interview_answer": "* sendte inn et videointervju"
+      }
+    },
+    {
+      "languageCode": "en",
+      "entries": {
+        "push_new_message_title": "* wrote a new message",
+        "push_video_interview_answer": "* sent a new video interview"
+      }
+    }
+  ]
+}

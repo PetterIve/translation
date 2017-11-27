@@ -1,0 +1,4 @@
+<resources>	
+<string name="push_new_message_title">%s wrote a new message</string>	
+<string name="push_video_interview_answer">%s sent a new video interview</string>
+</resources>
